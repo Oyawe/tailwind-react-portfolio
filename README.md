@@ -8,7 +8,7 @@
 
 ## Description
 
-This was implemented this using REACT and Tailwind CSS.<br>It's a basic portfolio UI that also supports Dark mode.<br>This portfolio is mobile responsive.<br>This is another one of my Tailwind projects.<br>By the reason working on this Project I now know to work with themes in Tailwind CSS.
+This was implemented this using REACT and Tailwind CSS.<br>It's a basic portfolio UI that also supports Dark mode.<br>This portfolio is mobile responsive.<br>This is another one of my Tailwind projects.<br>By the reason working on this Project I now know to work with themes in Tailwind CSS.<br>This project was sucessfuly deployed on netlify
 
 ### Setup:
 
