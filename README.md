@@ -1,6 +1,6 @@
 # Tailwind-React-Portfolio
 
-<div align="center">![ezgif-com-video-to-gif.gif](https://i.postimg.cc/wj2SfdsS/ezgif-com-video-to-gif.gif)</div>
+<img alt="Project Preview" src="https://i.postimg.cc/wj2SfdsS/ezgif-com-video-to-gif.gif" align="center"/>
 
 ### This project is a simple Web Developer Portfolio UI
 
