@@ -2,7 +2,7 @@
 
 ![ezgif-com-video-to-gif.gif](https://i.postimg.cc/wj2SfdsS/ezgif-com-video-to-gif.gif)
 
-## This project is a simple Web Developer Portfolio
+## This project is a simple Web Developer Portfolio UI
 
 ## [The finished website](https://tailwinid-portfolio.netlify.app/)
 
