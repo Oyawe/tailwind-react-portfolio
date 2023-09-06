@@ -18,7 +18,7 @@ This was implemented this using ```REACT``` and ```Tailwind CSS```.<br>It's a ba
 npm install
 ```
 
-- run dev server
+-- run dev server
 
 ```sh
 npm run dev
