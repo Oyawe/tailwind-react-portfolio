@@ -1,6 +1,6 @@
 # Tailwind-React-Portfolio
 
-![ezgif-com-video-to-gif.gif](https://i.postimg.cc/wj2SfdsS/ezgif-com-video-to-gif.gif)](https://postimg.cc/9D480Kbp)
+![ezgif-com-video-to-gif.gif](https://i.postimg.cc/wj2SfdsS/ezgif-com-video-to-gif.gif)]
 
 ## This project is a simple Web Developer Portfolio
 
