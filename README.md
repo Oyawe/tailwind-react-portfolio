@@ -4,7 +4,7 @@
 
 ### This project is a simple Web Developer Portfolio UI
 
-### [The finished project](https://tailwinid-portfolio.netlify.app/)
+### [Check the finished project here](https://tailwinid-portfolio.netlify.app/)
 
 ## Description
 
