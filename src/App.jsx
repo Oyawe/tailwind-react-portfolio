@@ -21,7 +21,7 @@ function App() {
   const [darkMode, setDarkMode] = useState(false);
 
   return (
-    <div className={darkMode ? "dark" : ""}>
+    <div className={darkMode ? "dark sm:w-fit" : "sm:w-fit"}>
       <main className="bg-white px-10 md:px-20 lg:40 dark:bg-gray-900 sm:w-fit">
         <section>
           <section className="min-h-screen">
