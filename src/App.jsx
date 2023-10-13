@@ -94,11 +94,11 @@ function App() {
 
           <div className="flex gap-10 lg:">
             {/*Card Design*/}
-            <div className="p-10 my-10 text-center shadow-xl rounded-xl dark:shadow-2xl">
+            <div className="p-10 my-10 text-center shadow-xl rounded-xl dark:shadow-2xl dark:bg-gray-200">
               <div className="flex items-center justify-center">
                 <img src={design} alt="" className="w-20 pt-6" />
               </div>
-              <h3 className="pt-6 pb-2 text-xl font-md dark:text-gray-400">
+              <h3 className="pt-6 pb-2 text-xl font-xl dark:text-gray-400">
                 Beautiful Designs
               </h3>
               <p className="py-2 dark:text-gray-400">
@@ -112,7 +112,7 @@ function App() {
               <p className="py-1 text-gray-800 dark:text-gray-400">Photoshop</p>
               <p className="py-1 text-gray-800 dark:text-gray-400">Figma</p>
             </div>
-            <div className="p-10 my-10 text-center shadow-xl rounded-xl">
+            <div className="p-10 my-10 text-center shadow-xl rounded-xl dark:bg-gray-200">
               <div className="flex items-center justify-center">
                 <img src={code} alt="" className="w-20 pt-6" />
               </div>
@@ -130,7 +130,7 @@ function App() {
               </p>
               <p className="py-1 text-gray-800 dark:text-gray-400">Figma</p>
             </div>
-            <div className="p-10 my-10 text-center shadow-xl rounded-xl">
+            <div className="p-10 my-10 text-center shadow-xl rounded-xl dark:bg-gray-200">
               <div className="flex items-center justify-center">
                 <img src={consulting} alt="" className="w-20 pt-6" />
               </div>
