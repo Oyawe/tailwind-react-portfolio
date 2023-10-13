@@ -92,7 +92,7 @@ function App() {
             </p>
           </div>
 
-          <div className="flex gap-10 lg:">
+          <div className="flex gap-10">
             {/*Card Design*/}
             <div className="p-10 my-10 text-center shadow-xl rounded-xl dark:shadow-2xl dark:bg-gray-200">
               <div className="flex items-center justify-center">
@@ -173,42 +173,42 @@ function App() {
               <img
                 src={web1}
                 alt=""
-                className="object-cover rounded-large w-max h-max"
+                className="object-cover rounded-lg w-max h-max"
               />
             </div>
             <div className="flex-1 basis-1/3">
               <img
                 src={web2}
                 alt=""
-                className="object-cover rounded-large w-max h-max"
+                className="object-cover rounded-lg w-max h-max"
               />
             </div>
             <div className="flex-1 basis-1/3">
               <img
                 src={web3}
                 alt=""
-                className="object-cover rounded-large w-max h-max"
+                className="object-cover rounded-lg w-max h-max"
               />
             </div>
             <div className="flex-1 basis-1/3">
               <img
                 src={web4}
                 alt=""
-                className="object-cover rounded-large w-max h-max"
+                className="object-cover rounded-lg w-max h-max"
               />
             </div>
             <div className="flex-1 basis-1/3">
               <img
                 src={web5}
                 alt=""
-                className="object-cover rounded-large w-max h-max"
+                className="object-cover rounded-lg w-max h-max"
               />
             </div>
             <div className="flex-1 basis-1/3">
               <img
                 src={web6}
                 alt=""
-                className="object-cover rounded-large w-max h-max"
+                className="object-cover rounded-lg w-max h-max"
               />
             </div>
           </div>
