@@ -72,9 +72,12 @@ function App() {
           </section>
         </section>
 
+        {/* services section  */}
         <section>
           <div>
-            <h3 className="py-1 text-3xl dark:text-white">Services I offer</h3>
+            <h3 className="py-1 text-3xl text-center dark:text-white">
+              Services I offer
+            </h3>
             <p className="py-2 leading-8 text-gray-800 text-md dark:text-gray-400">
               Since the begining of my journey as a freelance designer and
               developer, Ive done remote work for{" "}
